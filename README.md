@@ -3,7 +3,7 @@
 Proyek datathon AI Impact Challenge - Microsoft Elevate Training Center x Dicoding
 
 ## Dataset
-Dataset yang digunakan: [Indonesia E-Commerce Sales & Shipping 2023-2025]((https://www.kaggle.com/datasets/bakitacos/indonesia-e-commerce-sales-and-shipping-20232025?)) (Kaggle)
+Dataset yang digunakan: [Indonesia E-Commerce Sales & Shipping 2023-2025](https://www.kaggle.com/datasets/bakitacos/indonesia-e-commerce-sales-and-shipping-20232025?) (Kaggle)
 
 ## Cara Menjalankan
 1. Download dataset dari link Kaggle di atas
